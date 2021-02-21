@@ -1,33 +1,27 @@
 ---
-title: About us
+title: Навіщо ми створили "ПІДКРІПЛЕННЯ"
 metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
-  key: About
+  key: Навіщо це потрібно
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+**Навіщо ми створили "ПІДКРІПЛЕННЯ"**
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+Уяви себе в пустелі посеред ночі. Без їжі, телефону і ножа. Приблизно так відчуває себе людина на візку з пробитим колесом; незряча людина, котрій терміново треба до лікарні; будь-яка людина з інвалідністю, яка має перетнути кільце 95-го кварталу. Що ж може допомогти вийти з тієї пустелі, коли твої можливості обмежені зовнішніми факторами? Стороння допомога! Підтримка і опора. Підкріплення. Саме тому ми й вирішили створити платформу волонтерської допомоги, яку назвали — ПІДКРІПЛЕННЯ.
 
-## Our services
+[Молоді Ліберали - Кривий Ріг](https://www.facebook.com/young.lib.kr/?__cft__[0]=AZWwIaURmL92H1f1PncBmGexiZnzIwBjb0nChmT3XKqaTPUI_ITQCEYxvc2fzh-uZVx9oQxToJpyUjIUARDV6h9UqlFMjtyOsEvoMrv155cBC68VmFHLIpNNFx6nryVhby0pY8kd0Yuw7704T7HyYzPIl4a_Np7LpCcowBvxSWy8OjMbiW0soyDwq41PSSZ0YF8&__tn__=kK-R) другий рік співпрацюють з ГО [РУХ БЕЗ МЕЖ](https://www.facebook.com/rbmkr/?__cft__[0]=AZWwIaURmL92H1f1PncBmGexiZnzIwBjb0nChmT3XKqaTPUI_ITQCEYxvc2fzh-uZVx9oQxToJpyUjIUARDV6h9UqlFMjtyOsEvoMrv155cBC68VmFHLIpNNFx6nryVhby0pY8kd0Yuw7704T7HyYzPIl4a_Np7LpCcowBvxSWy8OjMbiW0soyDwq41PSSZ0YF8&__tn__=kK-R) в полі надання волонтерської підтримки і, як виявилось, поле дуже велике. Тільки уявіть ці цифри по Кривому Рогу:
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+- 8 тисяч людей мають інвалідність опорно-рухового апарату;
+- 1,6 тис. осіб пересуваються за допомогою крісел колісних;
+- 1,2 тис. осіб з порушеннями зору;
+- 600 людей з вадами слуху.
 
-### Blue-sky thinking
+Загальна ж кількість осіб з інвалідністю у Кривому Розі перевищує 30 тисяч! Скільком з тієї кількості може знадобитись допомога прямо зараз, або завтра — сказати важко. Але хочеться, щоб ці люди знали про можливість бути підтриманими.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Ми можемо протягнути руку допомоги, бо ми за рівність, ми за цивілізованість, ми за просту людяність. Бо це не важко — відремонтувати коляску чи розетку, супроводити по вулиці чи у транспорті, підстригти волосся чи зашити дірку (так, буває, що і руки не працюють).
 
-#### Management frameworks
+Отже. Платформа діятиме у соцмережах Instagram та Facebook, а також у окремих групах для волонтерів. Допомога надаватиметься лише особам, що мають інвалідність підтверджену документально. Жодних медичних послуг. Всі долучені до проєкту волонтери прослухають невеличкий інструктаж про морально-етичні і технічні тонкощі поводження з потенційними "клієнтами". Хто нам потрібен: хлопці і дівчата будь-якого віку - розвинені фізично, стійкі морально, активні суспільно, які час від часу готові робити корисні справи та допомагати тим, хто цього потребує. Не маєш чогось з перерахованого — не біда, я от жодного з того не маю.
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Якщо ти готовий - пиши нам! Усіх інших просимо розповсюдити інформацію, аби зацікавлені люди змогли дізнатися та приєднатися до нашої команди.
