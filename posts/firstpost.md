@@ -1,28 +1,30 @@
 ---
-title: This is the first example post
+title: Що таке Підкріплення?
 metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
-date: 2019-01-01T00:00:00.000Z
-author: John Appleseed
-summary: Why contemplating our mortality can be a powerful catalyst for change
-tags:
-  - tech
-  - environment
-  - politics
-  - sport
+summary: Підкріплення - це волонтерська платформа у Кривому Розі, де надається допомога людям з інвалідністю
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+**Що таке Підкріплення?**
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Підкріплення - це волонтерська платформа у Кривому Розі, де надається допомога людям з інвалідністю. Було створено за ініціативи ГО "Рух без меж" та ГО "Молоді ліберали".
 
-## Section Header
+**Хто може отримати допомогу від Підкріплення?**
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Допомогу ми надаємо тільки людям з інвалідністю. Це можуть бути люди як з порушенням зору, слуху, так і люди, які пересуваються у візку і також з багатьма іншими видами інвалідності. Головне, що ми потребуємо - так це документальне підтвердження наявності інвалідності в електронному форматі.
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-```
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+**Яку допомогу я, як людина з інвалідністю, можу отримати в Підкріпленні?**
+
+Волонтери Підкріплення можуть допомогти дістатися певного місця призначення, відремонтувати візок, скупитися в магазині і тому подібне. Однак ми НЕ надаємо матеріальну допомогу, адже наша платформа не має постійної фінансової підтримки, а більшість волонтерів Підкріплення - це молоді люди, студенти або школярі.
+
+**Хто може стати волонтером?**
+
+Як вже згадувалося вище, волонтером може стати людина будь-якої статі, віку (головне, щоб була можливість допомагати фізично, тобто не дуже малі і не літні люди), фізичної підготовки і матеріального забезпечення. Однак є одне правило - ми не беремо людей з інвалідністю у ролі волонтерів (окрім деяких винятків), адже саме на них направлена наша допомога.
+
+**Що входить у обов'язки волонтера Підкріплення?**
+
+Як тільки волонтери долучаються до нашої платформи, ми додаємо їх в наш телеграм-чат. Там періодично повідомляється про запити на допомогу, локацію людей та що треба робити. Якщо в цей період часу хтось з волонтерів вільний_а та для нього/неї не є проблемою дістатися до цього місця, він/вона повідомляє про це в чаті і вирушає на допомогу.
+
+Головні обов'язки до волонтера - це толерантність, зацікавленість та бажання допомогти. Всього іншого навчимо та допоможемо!
+
+**А якщо людина з інвалідністю поводить себе невиховано та потребує те, про що ми не домовлялися?**
+
+В цьому випадку ви маєте повне право відмовитися від допомоги, повідомивши про це нам. Ми, в свою чергу, додаємо цю людину до чорного списку та більше не надаємо їй нашої допомоги.
