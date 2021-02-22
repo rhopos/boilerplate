@@ -9,4 +9,7 @@ eleventyNavigation:
   key: Як зв'язатися з нами
   order: 3
 ---
-Ми у Facebook: https://www.facebook.com/pidkrip.kr/
+Сторінка у Facebook: [https://m.me/pidkrip.kr](https://m.me/pidkrip.kr)
+Група у Telegram:  [https://t.me/pidkrip_kr](https://t.me/pidkrip_kr)
+
+Або просто зателефонуй нам: 096 806 0281
