@@ -1,7 +1,7 @@
 :root {
 	--primary: blue;
 	--secondary: white;
-	--background: #FFF0EB;
+	--background: #F0EEE2;
 }
 
 *, *:before, *:after {
@@ -99,7 +99,8 @@ header nav ul :first-child {
 
 header nav li {
 	display: inline-block;
-	margin: 0 .25em;
+	/*margin: 0 .25em;*/
+	margin-top: 10px;
 }
 
 header nav li a {
