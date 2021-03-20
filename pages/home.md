@@ -13,27 +13,6 @@ eleventyNavigation:
 
 Підкріплення — це волонтерська платформа у Кривому Розі, де надається допомога людям з інвалідністю. Було створено за ініціативи ГО "Рух без меж" та ГО "Молоді ліберали". Детальніше в інтерв'ю. 
 
-<style>
-.foo {
-  background-color: white;
-  max-width: 500px;
-  border-radius: 20px;
-  padding: 10px 20px;
-  display: grid;
-  grid-template-columns: 400px 200px;
-}
-img {
-  padding-top: 4px;
-}
-</style>
-<div>
-  <div class="foo">
-    <div>
-      <p class="border">Приєднуйся до команди ПідКРіплення</p>
-    </div>
-    <div>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" width="40">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" width="40">
-    </div>
-  </div>
-<div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/uk_UA/sdk.js#xfbml=1&version=v10.0" nonce="0trdrmrG"></script>
+
+<div class="fb-page" data-href="https://www.facebook.com/pidkrip.kr/" data-tabs="messages" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/pidkrip.kr/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/pidkrip.kr/">ПідКРіплення</a></blockquote></div>
