@@ -15,7 +15,7 @@ eleventyNavigation:
 
 <style>
 .foo {
-  background-color: #F0EEE2;
+  background-color: white;
   max-width: 500px;
   border-radius: 20px;
   padding: 10px 20px;
